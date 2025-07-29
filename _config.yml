@@ -9,26 +9,26 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "XueqianZheng"
+title                    : "Xueqian Zheng"
 title_separator          : "-"
-name                     : &name "Xueqian Zheng"
+name                     : &name "zxq"
 description              : &description "personal description"
 url                      : https://zhengxueqian01.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zhengxueqian01.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mypic.png"
+  avatar           : "pic.png"
   name             : "Xueqian Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "linqiong's father"
-  location         : "China"
-  employer         : "Zhejiang University of Technology"
-  uri              : # URL
+  bio              : "Master's Student at Zhejiang University of Technology."
+  location         : "Hangzhou, China"
+  employer         : 
+  uri              : "www.baidu.com" # URL
   email            : "zhengxueqian@zjut.edu.cn" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/zhengxueqian01"
+  github           : "zhengxueqian01"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
