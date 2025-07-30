@@ -16,7 +16,7 @@ author_profile: true
 ### MegaCQA: Construction and Benchmarking of a Large-Scale Visual Chart Question Answering Dataset
 **Xueqian Zheng**, Tong Li, Zhou Liu, Zhentao Zheng, Qi Jiang, Xuhui Ma & Guodao Sun*  
 *ChinaVis*, 2025  
-[[PDF]](https://github.com/zhengxueqian01/zhengxueqian01.github.io/blob/master/files/ChinaVis_End.pdf) [[Dataset]](https://huggingface.co/datasets/xueqianzheng/MegaCQA)
+[[PDF]](../files/ChinaVis_End.pdf) [[Dataset]](https://huggingface.co/datasets/xueqianzheng/MegaCQA)
 
 ## 2024
 
