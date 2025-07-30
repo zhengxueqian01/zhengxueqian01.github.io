@@ -28,7 +28,7 @@ author:
   bio              : "Master's Student at Zhejiang University of Technology."
   location         : "Hangzhou, China"
   employer         : 
-  uri              : "www.baidu.com" # URL
+  uri              : # URL
   email            : "zhengxueqian@zjut.edu.cn" 
 
   # Academic websites
