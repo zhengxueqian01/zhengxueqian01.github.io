@@ -12,5 +12,5 @@ redirect_from:
 Education
 ======
 * M.S. in Zhejiang University of Technology, 2024 - now
-* B.S. in Zhejiang Agriculture & Forest University, 2020 - 2024
+* B.S. in Zhejiang Agriculture & Forestry University, 2020 - 2024
 
